@@ -1,6 +1,6 @@
 # Python
 
-Bem vindos(a)!
+Sejam todos bem vindos(as)!
 
-Aqui você irá conhece alguns dos meus projetos de python,
-fique a vontade.
+Aqui você irá conhece alguns dos meus projetos de programação.
+Fique a vontade para desfrutar de conhecimento e projetos!
